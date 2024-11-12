@@ -1,1 +1,1 @@
-Run the "run.bat" batch file.
+Run the ".run.bat" batch file.
