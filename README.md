@@ -1,1 +1,1 @@
-Run the ".run.bat" batch file.
+current version: 2.7.5x
