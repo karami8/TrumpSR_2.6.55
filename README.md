@@ -1,3 +1,3 @@
 star anime game rail server emulator
 
-current version: 2.7.54
+current version: 2.7.55
